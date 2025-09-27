@@ -1,3 +1,5 @@
+package interfaces.routingprotocolmanagementinterface;
+
 public interface RoutingProtocolManagementInterface {
 
     public boolean getDistanceTable(short nodeIdentifier);

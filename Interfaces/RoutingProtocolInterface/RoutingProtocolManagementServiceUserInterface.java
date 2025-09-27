@@ -1,3 +1,5 @@
+package interfaces.routingprotocolmanagementserviceuserinterface;
+
 public interface RoutingProtocolManagementServiceUserInterface {
 
     public void distanceTableIndication(short nodeIdentifier, int[][] distanceTable);
